@@ -6,4 +6,7 @@
 - PC Member ACM MM 2026, ACM MM 2025
 - PC Member IJCAI2026, IJCAI2025
 - PC Member WWW 2025
+- PC Member BIBM 2026, BIBM 2025, BIBM 2024
+- PC Member ICASSP 2025, ICASSP 2024
+- Invited Reviewer IEEE TNNLS, IEEE TFS, Neural Networks
 
