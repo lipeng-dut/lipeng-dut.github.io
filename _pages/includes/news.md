@@ -9,4 +9,5 @@
 - PC Member BIBM 2026, BIBM 2025, BIBM 2024
 - PC Member ICASSP 2025, ICASSP 2024
 - Invited Reviewer IEEE TNNLS, IEEE TFS, Neural Networks
+- Associate Editor of Software Engineering
 
