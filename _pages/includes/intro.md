@@ -1,3 +1,3 @@
 Short Bio: Dr. Peng Li is currently an Associate Professor in School of Computer Science and Technology, Dalian University of Technology. He has published over 50 papers in ACM/IEEE conferences, journals, as well as magazines. If you are seeking any form of **academic cooperation**, please feel free to email me at [pli@dlut.edu.cn](mailto:pli@dlut.edu.cn). 
 
-My research interest includes Multi-view Clustering, Medical Image Processing and Time Series Forecasting. I have published <a href='https://scholar.google.com/citations?user=6a89g1UAAAAJ'> 50+ papers</a> at the international journals and conferences such as IEEE TMM, ACM TOMM and IJCAI. 
+My research interest includes Multi-view Clustering, Medical Image Processing, Time Series Forecasting and Large Language Model. I have published <a href='https://scholar.google.com/citations?user=6a89g1UAAAAJ'> 50+ papers</a> at the international journals and conferences such as IEEE TMM, ACM TOMM and IJCAI. 
