@@ -1,7 +1,9 @@
 
 # 📝 Publications 
 
-- `ACM MM 2026` [Bottom-up Consistent Structure Guided Flow Generation for Deep Incomplete Multi-view Clustering](https://aclanthology.org), Meng Liu, Zhikui Chen, Jing Gao, Jianing Zhang, **Peng Li#**, Qingchen Zhang, Accepted.
+'# denotes the corresponding author
+
+- `ACM MM 2026` [Bottom-up Consistent Structure Guided Flow Generation for Deep Incomplete Multi-view Clustering](https://aclanthology.org), Meng Liu, Zhikui Chen, Jing Gao, Jianing Zhang, **Peng Li#**, Qingchen Zhang, Accepted. 
 - `IJCAI 2026` [Tab-semiSL: Tabular Data-Driven Semi-Supervised Learning to Identify Factors Associated with Immune-Related Adverse Events](https://aclanthology.org), Ruhao Liu, Hang Yu, Suixue Wang, Qingchen Zhang#, **Peng Li#**, Accepted.
 - `IJCAI 2026` [PRIME: A Decoupled Multi-Agent Actor-Critic for Multi-view Clustering](https://aclanthology.org), Jing Gao, Xinxin Liu, **Peng Li**#, Jianing Zhang, Meng Liu, Qingchen Zhang#, Accepted.
 - `IJCAI 2026` [GDAs-OT: A Prediction Method of Gene-Disease Associations Based on Optimal Transport for Identifying Genes Related to Immune-Related Adverse Events](https://aclanthology.org), Ruhao Liu, Suixue Wang, Hang Yu, **Peng Li#**, Qingchen Zhang#, Accepted.
