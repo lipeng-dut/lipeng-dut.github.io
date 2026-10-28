@@ -3,8 +3,8 @@
 - *2026.05*: Three articles are accepted by IJCAI 2026.
 
 # Academic Activities
+- Associate Editor of IEEE Transactions on Image Processing, Software Engineering, Frontiers in Psychology
 - PC Member ICLR 2027, AAAI 2027, NeurIPS 2026, ACM MM 2025-2026, IJCAI 2025-2027, WWW 2025, BIBM 2025-2026, ICASSP 2024-2027
 - Invited Reviewer IEEE TNNLS, IEEE TFS, Neural Networks, Information Sciences, Pattern Recognition
-- Associate Editor of Software Engineering
-- Associate Editor of Frontiers in Psychology
+
 
