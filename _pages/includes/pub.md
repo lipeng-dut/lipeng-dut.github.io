@@ -3,7 +3,7 @@
 
 '# denotes the corresponding author
 
-- `ACM MM 2026` [Bottom-up Consistent Structure Guided Flow Generation for Deep Incomplete Multi-view Clustering](https://aclanthology.org), Meng Liu, Zhikui Chen, Jing Gao, Jianing Zhang, **Peng Li#**, Qingchen Zhang, Accepted. 
+- `ACM MM 2026` [Bottom-up Consistent Structure Guided Flow Generation for Deep Incomplete Multi-view Clustering](https://aclanthology.org), Meng Liu, Zhikui Chen, Jing Gao, Jianing Zhang, **Peng Li#**, Qingchen Zhang, in Proceedings of the 34th ACM International Conference on Multimedia, Brazil, 2026, pp. 6455-6464
 - `IJCAI 2026` [Tab-semiSL: Tabular Data-Driven Semi-Supervised Learning to Identify Factors Associated with Immune-Related Adverse Events](https://www.ijcai.org/proceedings/2026/624), Ruhao Liu, Hang Yu, Suixue Wang, Qingchen Zhang#, **Peng Li#**, in Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence, Berlin, Germany, 2026, pp. 5603-5611.
 - `IJCAI 2026` [PRIME: A Decoupled Multi-Agent Actor-Critic for Multi-view Clustering](https://www.ijcai.org/proceedings/2026/478), Jing Gao, Xinxin Liu, **Peng Li**#, Jianing Zhang, Meng Liu, Qingchen Zhang#, in Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence, Berlin, Germany, 2026, pp. 4295-4303.
 - `IJCAI 2026` [GDAs-OT: A Prediction Method of Gene-Disease Associations Based on Optimal Transport for Identifying Genes Related to Immune-Related Adverse Events](https://www.ijcai.org/proceedings/2026/623), Ruhao Liu, Suixue Wang, Hang Yu, **Peng Li#**, Qingchen Zhang#, in Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence, Berlin, Germany, 2026, pp. 5594-5602.
