@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.11*  Best Paper Award of ACM International Conference on Multimedia 2026.
+- *2026.11*: Best Paper Award of ACM International Conference on Multimedia 2026.
 - *2026.10*: One article is accepted by IEEE Internet of Things Journal.
 - *2026.07*: One article is accepted by ACM International Conference on Multimedia 2026.
 - *2026.05*: Three articles are accepted by International Joint Conferences on Artificial Intelligence 2026.
